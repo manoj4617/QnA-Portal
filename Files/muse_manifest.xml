@@ -1,0 +1,88 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DBMS_PRO.com" resolutions="1x" timestamp="1571634172932">
+  <folder name="assets">
+    <file name="study.webp" crc="85522281" seo="true" mt="1571117772000"/>
+    <file name="study.heic" crc="90854123" seo="true" mt="1571118142000"/>
+    <file name="b28c2651-e26e-4fc5-a866-380444bf678b.webp" crc="49293317" seo="true" mt="1571118344000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3976193556"/>
+    <file name="index.css" crc="455096398" ref="index"/>
+    <file name="student_signup.css" crc="27130950" ref="student_signup"/>
+    <file name="tutor_home.css" crc="4212953595" ref="tutor_home"/>
+    <file name="tutor_answer.css" crc="59974526" ref="tutor_answer"/>
+    <file name="student_sign_in.css" crc="453659627" ref="student_sign_in"/>
+    <file name="tutor_sign_in.css" crc="351818440" ref="tutor_sign_in"/>
+    <file name="student_home.css" crc="497127231" ref="student_home"/>
+    <file name="tutor_sign_up.css" crc="109299128" ref="tutor_sign_up"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:student_sign_in:tutor_sign_in:student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="museutils.js" crc="3939489907" ref="index:student_sign_in:tutor_sign_in:student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:student_sign_in:tutor_sign_in:student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="museconfig.js" crc="128606099" ref="index:student_sign_in:tutor_sign_in:student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:student_sign_in:tutor_sign_in:student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="require.js" crc="4177726516" ref="index:student_sign_in:tutor_sign_in:student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="webpro.js" crc="3856315280" ref="student_sign_in:tutor_sign_in:student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="form_check.php" crc="4108222811" ref="student_sign_in:student_signup"/>
+    <file name="form_throttle.php" crc="503802655" ref="student_sign_in:student_signup"/>
+    <file name="form_process.php" crc="260214869" ref="student_sign_in:student_signup"/>
+    <file name="form-u888.php" crc="357032895" ref="student_signup"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="student_signup:tutor_sign_up"/>
+    <file name="html5shiv.js" crc="4241844378" ref="student_signup:student_home:tutor_sign_up:tutor_home:tutor_answer"/>
+    <file name="form-u1896.php" crc="350717533" ref="student_home"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="student_home:tutor_home"/>
+    <file name="form-u2432.php" crc="3768502088" ref="tutor_sign_up"/>
+    <file name="form-u2723.php" crc="321074159" ref="tutor_sign_up"/>
+    <file name="form-u3844.php" crc="3926902309" ref="tutor_answer"/>
+    <file name="form-u4161.php" crc="4268436057" ref="student_sign_in"/>
+    <file name="form-u773.php" crc="351627341" ref="tutor_sign_in"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="student_home:tutor_home"/>
+    <file name="u395-5.png" crc="4183533072" ref="student_sign_in"/>
+    <file name="u770-5.png" crc="15139133" ref="tutor_sign_in"/>
+    <file name="photo-1455849318743-b2233052fcff.jpg" crc="4224766548" seo="true" ref="student_signup">
+      <caption webpage="student_signup" alt=""/>
+    </file>
+    <file name="u882-5.png" crc="129328071" ref="student_signup"/>
+    <file name="u1302-4.png" crc="155415871" ref="student_signup"/>
+    <file name="photo-1513506003901-1e6a229e2d15.jpg" crc="4071597612" seo="true" ref="student_home">
+      <caption webpage="student_home" alt=""/>
+    </file>
+    <file name="u1327-5.png" crc="429184144" ref="student_home"/>
+    <file name="photo-1553484771-11998c592b9c.jpg" crc="505427808" ref="tutor_sign_up" seo="true">
+      <caption webpage="tutor_sign_up" alt=""/>
+      <caption webpage="tutor_sign_up" alt=""/>
+    </file>
+    <file name="photo-1516979187457-637abb4f9353.jpg" crc="4195010347" seo="true" ref="tutor_home">
+      <caption webpage="tutor_home" alt=""/>
+    </file>
+    <file name="u3467-5.png" crc="4167851594" ref="tutor_home"/>
+    <file name="photo-1535982330050-f1c2fb79ff78.jpg" crc="125463291" seo="true" ref="tutor_answer">
+      <caption webpage="tutor_answer" alt=""/>
+    </file>
+    <file name="photo-1523289333742-be1143f6b766.jpg" crc="3874371601" seo="true" ref="student_sign_in">
+      <caption webpage="student_sign_in" alt=""/>
+    </file>
+    <file name="photo-1508873699372-7aeab60b44ab.jpg" crc="476117336" seo="true" ref="tutor_sign_in">
+      <caption webpage="tutor_sign_in" alt=""/>
+    </file>
+    <file name="photo-edit1.jpg" crc="530113371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photoedit3.jpg" crc="4013550853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photoedit2.jpg" crc="485858249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4184897051" seo="true" mt="1571634119073" redirect="true"/>
+  <file name="student_sign_in.html" crc="142287327" seo="true" mt="1571475229772" redirect="true"/>
+  <file name="tutor_sign_in.html" crc="3991670239" seo="true" mt="1571477786021" redirect="true"/>
+  <file name="student_signup.html" crc="200660548" seo="true" mt="1571628843208" redirect="true"/>
+  <file name="student_home.html" crc="4082441096" seo="true" mt="1571476863746" redirect="true"/>
+  <file name="tutor_sign_up.html" crc="4003639412" seo="true" mt="1571477452398" redirect="true"/>
+  <file name="tutor_home.html" crc="504130843" seo="true" mt="1571474910607" redirect="true"/>
+  <file name="tutor_answer.html" crc="450917855" seo="true" mt="1571477594527" redirect="true"/>
+</manifest>
